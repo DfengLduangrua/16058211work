@@ -1,0 +1,28 @@
+
+#page{
+    margin: 1
+}
+h2{
+    padding: 1px ;
+    border: 5px solid red;
+    margin: 5px;
+}
+#page{
+    width: 980px;
+    margin:0 auto;
+}
+h2{
+    border-bottom: 1px dotted gray;
+    padding-bottom: 3px;
+}
+ul{
+    list-style: none;
+    padding-left: 1px;
+}
+ul span.header{
+    margin-left:  0.5px;
+}
+h2{text-align: center;
+    color:white }
+ul{text-align: center}
+hr{text-align: center}
